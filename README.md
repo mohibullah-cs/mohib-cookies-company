@@ -1,28 +1,72 @@
-# Mohib Cookies Company
+🍪 Mohib Cookies Company
 
-A responsive cookie bakery website created as part of my web design learning journey.
+Freshly Baked Happiness, Delivered to You!
 
-## Features
-- Responsive desktop, tablet and mobile layout
-- Mobile navigation menu
-- Hero, story, cookie menu, company values, testimonial and contact sections
-- Cookie order links prepare a WhatsApp message
-- Automatic current year in the footer
-- Semantic HTML and accessible navigation labels
+Mohib Cookies Company is a modern, responsive website project designed to showcase delicious cookie varieties and provide customers with a simple way to place orders.
 
-## Project files
-- `index.html` — website content and structure
-- `style.css` — layout, colours, typography and responsive design
-- `script.js` — mobile navigation, order message and footer year
+✨ Features
 
-## How to run
-Open `index.html` in a browser. For local development, open the folder in VS Code and use the Live Server extension. No build tools or package installation are needed.
+- Modern Design: Clean and attractive website layout.
+- Responsive Layout: Compatible with desktop, tablet, and mobile devices.
+- Product Showcase: Displays different cookie varieties.
+- WhatsApp Ordering: Allows customers to place orders directly through WhatsApp.
+- Interactive Navigation: Mobile-friendly navigation menu.
+- Dynamic Footer: Automatically updates the current year.
 
-## Before using it for a real business
-1. Replace the sample WhatsApp number `923400559956` in `index.html` and `script.js` with your own country code and number, without the plus sign.
-2. Update sample cookie prices, descriptions, location and business hours.
-3. Replace the sample customer testimonial with a genuine review or remove it.
-4. Photos and Google Fonts are loaded online, so an internet connection is needed. Replace stock photos with your own product photos when available.
+🍪 Products
 
-## Technologies
-HTML5, CSS3 (Flexbox, Grid and media queries), and vanilla JavaScript.
+- Classic Chocolate Chip Cookies
+- Double Chocolate Cookies
+- Oatmeal Delight Cookies
+
+🛠️ Technologies Used
+
+- HTML5 – Website structure
+- CSS3 – Styling and responsive design
+- JavaScript – Interactive functionality
+- GitHub – Version control and project hosting
+
+📁 Project Structure
+
+mohib-cookies-company/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+🚀 Getting Started
+
+1. Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/mohib-cookies-company.git
+
+2. Open the project folder in Visual Studio Code.
+3. Run "index.html" using the Live Server extension.
+
+🌐 Live Demo
+
+Add your GitHub Pages link here after publishing the website.
+
+🎯 Project Goals
+
+This project was developed to practise HTML, CSS, and JavaScript while improving responsive web design skills through a practical business website.
+
+🔮 Future Improvements
+
+- Shopping cart functionality
+- Online payment integration
+- Customer reviews
+- Additional product categories
+
+👨‍💻 Developer
+
+Mohib Ullah
+
+Part of my Web Design Learning Journey.
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
+
+Mohib Cookies Company — Making Every Bite Special! 🍪
