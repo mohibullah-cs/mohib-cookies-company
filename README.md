@@ -39,7 +39,7 @@ mohib-cookies-company/
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/mohib-cookies-company.git
+git clone https://github.com/mohibullah-cs/mohib-cookies-company.git
 
 2. Open the project folder in Visual Studio Code.
 3. Run "index.html" using the Live Server extension.
